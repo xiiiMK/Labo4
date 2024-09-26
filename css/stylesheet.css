@@ -1,6 +1,7 @@
 body {
     background-image: url(../images/cinema.jpeg);
     background-size: cover;
+    padding-left: 10px;
 }
 header{
 color: white;
