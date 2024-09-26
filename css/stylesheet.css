@@ -31,3 +31,6 @@ padding-left: 10px;
     color: white;
     list-style-type: disc;
 }
+ul{
+    list-style: none;
+}
