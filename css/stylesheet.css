@@ -1,0 +1,32 @@
+body {
+    background-image: url(../images/cinema.jpeg);
+    background-size: cover;
+}
+header{
+color: white;
+padding-left: 10px;
+
+}
+
+.realisateurs
+{
+    color:yellowgreen;
+    font-size: 25px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.films
+{
+    color:white;
+    list-style-type: upper-latin;
+    font-size: 15px;
+    padding-left: 0px;
+    margin-left: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.acteurs
+{
+    color: white;
+    list-style-type: disc;
+}
